@@ -1,0 +1,8 @@
+# .env file
+.env
+
+# SQLite database file
+movie_cache.sqlite
+
+# Model directory contents
+model/
