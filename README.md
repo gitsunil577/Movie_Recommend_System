@@ -33,8 +33,8 @@ A content-based movie recommender system that suggests movies similar to a user'
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/movie-recommender-system-tmdb-dataset.git
-    cd movie-recommender-system-tmdb-dataset
+    git clone https://github.com/gitsunil577/Movie_Recommend_System.git
+    cd Movie_Recommend_System
     ```
 
 2.  **Install dependencies:**
@@ -46,7 +46,7 @@ A content-based movie recommender system that suggests movies similar to a user'
 3.  **Get a TMDB API Key:**
     -   Create an account on [The Movie Database (TMDB)](https://www.themoviedb.org/).
     -   Go to your account settings, then the "API" section to get your API key.
-    -   Open `app.py` and replace `"393fbfba600f6060813762a396dbd7d4"` in the `fetch_poster` function with your API key.
+    -   Open `app.py` and replace `"YOUR_API_KEY"` in the `fetch_poster` function with your API key.
 
 ## ▶️ How to Run
 
